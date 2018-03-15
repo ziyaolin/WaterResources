@@ -1,6 +1,5 @@
 library(tidyr)
 library(tidyverse)
-library(xlsx)
 library(plotly)
 
 #GWLF Model
